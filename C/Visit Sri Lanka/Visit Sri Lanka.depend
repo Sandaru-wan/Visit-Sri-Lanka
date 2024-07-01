@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719733309 source:c:\users\dell\desktop\programming\c\visit sri lanka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
